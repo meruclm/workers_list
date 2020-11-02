@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Workers List</string>
+    <string name="employees_text">Сотрудники:</string>
+    <string name="name_label">Имя:</string>
+    <string name="name">name</string>
+    <string name="surname_label">Фамилия:</string>
+    <string name="surname">surname</string>
+    <string name="bday_label">Дата рождения:</string>
+    <string name="bday_text">bday</string>
+    <string name="specialty_text">Специальность:</string>
+    <string name="specialty">specialty</string>
+</resources>
